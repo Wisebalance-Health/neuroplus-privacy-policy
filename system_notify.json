@@ -1,5 +1,13 @@
-{
-  "Result":"OK",
-  "Title":"系統維護通知",
-  "Content":"因系統後台進行更新維護，目前暫停使用，預計2026/8/13 下午15:00恢復運作，造成不便敬請見諒。"
+{ 
+  "result":"OK",
+  "start_time":"202608130000", 
+  "end_time":"202608131500",
+  "en":{
+    "title":"System Maintenance Notice",
+    "content":"The system is currently unavailable due to backend update and maintenance operations. Services are expected to resume at 3:00 PM on August 13, 2026. We apologize for any inconvenience caused."
+  },
+  "zh":{
+    "title":"系統維護通知",
+    "content":"因系統後台進行更新維護作業，目前暫停使用，預計2026/8/13 下午15:00恢復運作，造成不便敬請見諒。"
+  }
 }
