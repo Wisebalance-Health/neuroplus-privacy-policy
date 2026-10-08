@@ -1,13 +1,13 @@
 { 
-  "result":"OK",
+  "result":"OFF",
   "start_time":"202610080000", 
-  "end_time":"202610082359",
+  "end_time":"202610081500",
   "en":{
     "title":"System Maintenance Notice",
-    "content":"The system is currently unavailable due to backend update and maintenance operations. Services are expected to resume at 3:00 PM on August 13, 2026. We apologize for any inconvenience caused."
+    "content":"The system is currently unavailable due to backend update and maintenance operations. Services are expected to resume at 3:00 PM on October 8, 2026. We apologize for any inconvenience caused."
   },
   "zh":{
     "title":"系統維護通知",
-    "content":"因系統後台進行更新維護作業，目前暫停使用，預計2026/8/13 下午15:00恢復運作，造成不便敬請見諒。"
+    "content":"因系統後台進行更新維護作業，目前暫停使用，預計2026/10/08 下午15:00恢復運作，造成不便敬請見諒。"
   }
 }
